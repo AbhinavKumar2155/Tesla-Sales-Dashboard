@@ -135,7 +135,7 @@ This project demonstrates practical experience with:
 Final-year Computer Science and Engineering student interested in data analytics, business intelligence, and data-driven problem solving.
 
 - 💼 LinkedIn: `[Add your LinkedIn profile link here]`
-- 🐙 GitHub: `[Add your GitHub profile link here]`
+- 🐙 GitHub: [AbhinavKumar2155](https://github.com/AbhinavKumar2155)
 
 ---
 
